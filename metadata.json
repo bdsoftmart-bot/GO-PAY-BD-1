@@ -1,0 +1,6 @@
+{
+  "name": "GO PAY BD",
+  "description": "Digital wallet, manual payment deposit & withdrawal management, two-level referral & order commission tracking, invoicing, and centralized financial admin platform in BDT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
